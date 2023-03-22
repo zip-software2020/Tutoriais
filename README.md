@@ -5,4 +5,4 @@
 
 - [Tutorial do Atualizador ZiP-Pharma](https://github.com/zip-software2020/Tutoriais/blob/main/AtualizadorPharma/README.md)
 
-
+TESTANDO SE ATUALIZA SOZINHO
